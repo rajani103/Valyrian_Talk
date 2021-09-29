@@ -11,7 +11,7 @@ body{
     
     margin: 0px;
     padding:0;
-    background-image: url(images/dragonbg.svg);
+    background-image: url(images/pic.jpg);
 }
 
 .buffer {
@@ -60,7 +60,7 @@ textarea {
 }
 
 .outputinstr{
-    background-color: white;
+    background-color: rgb(74, 175, 49);
     
 }
 
