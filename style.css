@@ -11,13 +11,13 @@ body{
     
     margin: 0px;
     padding:0;
-    background-image: url(images/pic.jpg);
+    background-image: url(images/dragonbg.svg);
 }
 
 .buffer {
     
     height: 7.5rem;
-    background-color: #0651e7;
+    background-color: #a8abb1;
     
 }
 
@@ -44,7 +44,7 @@ textarea {
     font-size: 1.3rem;
     border-radius: .3rem;
     letter-spacing: 1px;
-    background-color: #0452ee;
+    background-color: #a8abb1;
     
 }
 
